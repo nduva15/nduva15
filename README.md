@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm nduva15</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nduva15&label=Profile%20views&color=0e75b6&style=flat" alt="nduva15" /> </p>
-<img align="right" alt="Coding" width="400" src="C:\Users\timot\Downloads\programmer.gif">
+<img align="right" alt="Coding" width="400" src="[C:\Users\timot\Downloads\programmer.gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 
 - 📫 How to reach me **timothynduva349@gmail.com**
 
